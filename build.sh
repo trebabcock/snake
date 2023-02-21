@@ -1,0 +1,3 @@
+reset
+go build
+./snake
